@@ -17,10 +17,10 @@ I've <a href="https://github.com/randomlifedata/Election-2015-BBC-scraper">scrap
 ![plot of chunk tory_swing_chunk](figure/tory_swing_chunk-1.png) 
 Radical swingers
 ================
-If they want to tackle the other groups, they would need a 43% swing from all of UKIP, SNP and Green - which does see like a tall order:
+If they want to tackle the other groups, they would need a 45% swing from all of UKIP, SNP and Green - which does see like a tall order:
 
 ![plot of chunk ukip_snp_green_swing_chunk](figure/ukip_snp_green_swing_chunk-1.png) 
-The reticent swingers
+The reluctant swingers
 =====================
 The other option is to tap into the 34% of people that don't vote. Adding them as another party that Corbyn needs to 'swing', Labour would need 15% swing from each of UKIP, SNP, Green and non-voters. In numbers, that's pretty close to the 12% needed from the centre ground, but it's a tougher problem as I said earlier. 
 

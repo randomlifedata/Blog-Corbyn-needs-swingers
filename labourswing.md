@@ -89,7 +89,7 @@ title("Needed swing from \nConservative to Labour in 2020")
 ```
 Radical swingers
 ================
-If they want to tackle the other groups, they would need a 43% swing from all of UKIP, SNP and Green - which does see like a tall order:
+If they want to tackle the other groups, they would need a 45% swing from all of UKIP, SNP and Green - which does see like a tall order:
 
 ```{r ukip_snp_green_swing_chunk, fig.width=7,fig.height=6, echo=FALSE}
 plot_df<-data.frame(Swing=0,Labour=232,Conservative=330)
@@ -114,7 +114,7 @@ axis(2)
 legend("bottomleft",c("Labour","Conservative"),fill=c("#d50000","#0087dc"))
 title("Needed combined/equal swing \nfrom UKIP & SNP & Green \nto Labour in 2020")
 ```
-The reticent swingers
+The reluctant swingers
 =====================
 The other option is to tap into the 34% of people that don't vote. Adding them as another party that Corbyn needs to 'swing', Labour would need 15% swing from each of UKIP, SNP, Green and non-voters. In numbers, that's pretty close to the 12% needed from the centre ground, but it's a tougher problem as I said earlier. 
 
