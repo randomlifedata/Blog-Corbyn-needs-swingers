@@ -1,0 +1,57 @@
+Labour's needed swing
+=====================
+
+
+
+Jeremy Corbyn has recently been elected as leader of the Labour Party and several people are dismayed. The reasoning is quite simple- Jeremy may be popular amongst the left but the left doesn't win elections. Historically, the Labour Party wins less elections that the Conservatives. In the memory of many Labour supporters is the 80s when we suffered a decade of Thatcher while the Labour party had hugely popular leaders like Michael Foot - who had standing room only in all of his public appearances, just like Jeremy Corbyn - that couldn't get elected. Those Labour supporters would say that it was only the centrist policies of John Smith and then Tony Blair that managed to get the Labour Party into power and from there they could introduce a minimum wage, reduce child and pensioner poverty and increase access to education.
+
+From what I can tell Labour had 2 options: try to win votes from centre-ground Tories and give up on Scotland, all the votes they lost to UKIP and continue to ignore the disenfranchised non-voters; or they can give up somewhat on the centre-ground and try to win back votes from the SNP, UKIP and encourage people to vote... 
+
+From a campaigns perspective, it's far easier to target one group than 3! So straight away it'll be more difficult to take that second road the way Corbyn seems to be doing.
+
+Swinging conservatives
+======================
+
+I've <a href="https://github.com/randomlifedata/Election-2015-BBC-scraper">scraped all the election data from the BBC website.</a> If we re-run the 2015 election, Labour could get one more seat than the Tories if they got a 12% swing from the Tories. 
+
+![plot of chunk tory_swing_chunk](figure/tory_swing_chunk-1.png) 
+Radical swingers
+================
+If they want to tackle the other groups, they would need a 43% swing from all of UKIP, SNP and Green - which does see like a tall order:
+
+![plot of chunk ukip_snp_green_swing_chunk](figure/ukip_snp_green_swing_chunk-1.png) 
+The reticent swingers
+=====================
+The alternative is to tap into the 35% of people that don't vote. Adding them as another party that Labour needs to 'swing', Labour would need 15% swing from each of UKIP, SNP, Green and non-voters. That's pretty close to the 12% needed from the centre ground, but it's a much tougher problem. 
+
+![plot of chunk ukip_etc_non_voters_swing_chunk](figure/ukip_etc_non_voters_swing_chunk-1.png) 
+
+Jeremy's choice
+===============
+Jeremy Corbyn seems to be going for the latter group - and as I've said a couple of times, it's automatically a lot harder to appeal to 4 groups than it is to appeal to 1. It's also really, really tricky to get non-voters to actually turn up on the day so banking on a re-engagement of grassroots people is going to be a struggle.
+
+So for the record, I admit, it's possible that this would all be a lot easier if Labour had chosen Burnham or Cooper who would have targeted the single, central group.
+
+Looking to the positive
+=======================
+Given the data and the situation, Labour supporters need to start getting behind the idea of appealing to a broad range of groups. 
+
+There are consistent messages that can appeal to all the protest/disenfranchised/nationalist groups: radical change from the current 'political elite', strong concern for the funding and maintenance of public services (UKIP voters are concerned about immigration often because of strain on public services) and an anti-war stance that claims to honour our troops (appealing to the non-voters who I suspect are anti-war, while also appealing to the pro-UK Defence Forces attitude common to UKIP, and perhaps also Scotland that also has strong links to our armed forces).
+
+Growing the grass roots
+=======================
+What I said earlier about relying on non-voters to turn up is a valid concern, I think - but there are a couple of things that we can get behind given that Corbyn is looking to do just that.
+
+1) For all the main parties to only care about a few middle-ground voters is what data science calls 'falling into a local minimum'. This means it's a solution that looks good but isn't the best possible. If Labour is the voice of the common worker and if any of that one-nation rhetoric from Ed Miliband was truly meant, then Labour has a moral duty to engage with the 34% of people that don't feel represented or like they have a stake in society enough to vote. I realise that's difficult to swallow when there is also the moral argument that you need to get into power to stop the immoral Tory ideology, I'm just saying re-engagement ought to be part of Labour's strategy somewhere - this applies to SNP and UKIP voters too.
+
+<img src="uk-voter-turnout-history.png">
+
+2) The needed swing from non-voters is around 15% which sounds like quite a lot but that's 15% of 34% so we only are talking about an increase in voter turnout of 5%. Now I'm not saying that's going to be easy but we only need to go back to the early 90s and Britain did have voter turnout at the 70% needed. 70% and over is the norm - You could say that it was only in the aftermath of Thatcher and the light of New Labour that people became as disenfranchised as they are now. People keep saying Jeremy is a throwback to the 80s - that works in his favour for motivating non-voters!
+
+3) Now may be the perfect time for building a grassroots movement of practiced voters. First, Labour has the Welsh and Scottish elections to test itself on and to get some momentum going - any improvement woudl be seen as success and things can ONLY get better. Next, there is the EU referendum and I can only assume that's going to get people out to vote. If Labour can be engaging those people and coming across as with them and for them, even if they have different opinions about the EU - the UK is likely to have a whole bunch of engaged and newly registered voters that think Labour is at least listening to them.
+
+Last word
+=========
+Dont' get me wrong, the smart, politically savvy thing to have done would have been to aim for the middle ground and steal votes from the Tories. Anyone that could eat a bacon sandwich properly would have had a good chance of doing that. But, given that Labour is trying to unite the clans and reengage the disenfranchised, I think Labour supporters of all stripes ought to be able to see that it is doable, especially at this time, and that the numbers game is not so different this way (15% swing) as it would have been in the centre ground (12% swing).
+
+SO - good luck Jeremy and good luck UK democracy.
